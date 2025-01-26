@@ -25,6 +25,7 @@ Weekly Trends for Sales & Profit: \
  – Display the average weekly values. \
  – Highlight weeks that are above and below the average to draw attention to sales & profit performance. 
 
+---
 
 ## **Customer Dashboard** | Requirements
 
